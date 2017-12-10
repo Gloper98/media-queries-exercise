@@ -2,7 +2,7 @@
 ## ¿Qué son los Media Queries?
 
 Es una técnica introducida en CSS3, que usa la regla @media para incluir un bloque de propiedades CSS que se ejecutarán en nuestro sitio solo si las condiciones dadas al @media son verdaderas.
->Se replico usando DOM, CSS y media query.
+>Se replico usando HTML, CSS y media query.
 
 ## Vista previa
 
